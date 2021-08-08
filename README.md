@@ -1,4 +1,4 @@
-In this project i have use redux toolkit as state manager , bootstrap as css framework , i18n for localization   
+In this project i have used redux toolkit as state manager , bootstrap as css framework , i18n for localization   
 
 ## 1. To Run Project
 
